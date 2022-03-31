@@ -1,1 +1,1 @@
-# World-University-Ranking-
+# World-University-Ranking
