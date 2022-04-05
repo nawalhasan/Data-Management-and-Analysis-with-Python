@@ -1,4 +1,4 @@
-# Coding 3: Data Management and Analysis with Pythong
+# Coding 3: Data Management and Analysis with Python
 
 This repository is dedicated to all the assignments for data management and analysis with python. I learnt the basic syntax of pythong as a data analysis took, including writing and executing scripts to automate tasks, using the IPython interpreter for interactive exploration of data and
 code, and using the Jupyter notebook to share and collaborate.
