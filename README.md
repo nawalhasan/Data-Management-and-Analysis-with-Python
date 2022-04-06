@@ -16,5 +16,5 @@ code, and using the Jupyter notebook to share and collaborate.
 
 Please click on the hyperlink to find the code and reports created for the assignments.
 
-**World University Ranking**: [Final Project](https://github.com/nawalhasan/Data-Management-and-Analysis-with-Python)
+**World University Ranking**: [Final Project](https://github.com/nawalhasan/Data-Management-and-Analysis-with-Python/blob/main/final_project.ipynb)
 
